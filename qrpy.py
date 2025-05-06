@@ -1,5 +1,5 @@
 import qrcode
-#pedir al usuario que ingrese 3 valores y almacenarlos en 4 variables diferentes
+#pedir al usuario que ingrese 4 valores y almacenarlos en 4 variables diferentes
 
 
 
@@ -10,10 +10,13 @@ import qrcode
 crear la funcnion operacion 
 esta funcion devolera el resultado de:
 w elevado a la x, dividido para y elevado a la z
+y ilsto
 """
 
 
+
 #convertir este resutado en string
+
 
 
 #mostrar el resultado en el qr
