@@ -1,10 +1,12 @@
 import qrcode
 #pedir al usuario que ingrese 3 valores y almacenarlos en 4 variables diferentes
-
-
+print "w=2"
+print "x=4"
+print "y=2"
+print "z=6"
 
 #convertir cada variable a entero
-
+print "w^x/y^z"
   
 """
 crear la funcnion operacion 
